@@ -338,6 +338,7 @@ main {
 
 .contact {
   flex-direction: column;
+  margin-bottom: 2rem;
 }
 
 .footer {
